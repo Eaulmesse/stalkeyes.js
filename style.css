@@ -17,6 +17,7 @@ body{
     height: 120px;
     background: #fff;
     display: inline-block;
+    border: 5px solid black;
     margin: 40px;
     border-radius: 50%;
     position: relative;
@@ -26,7 +27,8 @@ body{
 .ball{
     width: 40px;
     height: 40px;
-    background: black;
+    background: blueviolet;
+    border: 5px solid black;
     position: absolute;
     top: 50%;
     left: 50%;
